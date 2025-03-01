@@ -29,8 +29,8 @@ const mint = publicKey("AtVaZjWQYs57m2VGavR3sxoKgonRM6A3AbjpP9VnkWap");
 
 // Sample Metadata for our Token
 const tokenMetadata = {
-	name: "Solana Gold",
-	symbol: "GOLDSOL",
+	name: "Trump Fall",
+	symbol: "TRFL",
 	uri: "https://raw.githubusercontent.com/solana-developers/program-examples/new-examples/tokens/tokens/.assets/spl-token.json",
 };
 
