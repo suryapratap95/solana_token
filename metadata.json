@@ -1,0 +1,22 @@
+{
+  "name": "Trump Fall",
+  "symbol": "TRFL",
+  "description": "Trump Fall is a token representing the market downturn sentiment.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreiafwekap3eig4kjidkrqs7gzbxd4pa6wqk7usp2s56qog6mkcrm2q",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreiafwekap3eig4kjidkrqs7gzbxd4pa6wqk7usp2s56qog6mkcrm2q",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
