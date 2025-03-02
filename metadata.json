@@ -2,7 +2,7 @@
     "name": "Trump will Fall",
     "symbol": "TRFL",
     "description": "Trump Fall is a token representing the market downturn sentiment.",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/suryapratap95/solana_token/refs/heads/main/TrumpImage.png",
     "attributes": [
       {
         "trait_type": "Category",
