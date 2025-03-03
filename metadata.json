@@ -1,8 +1,11 @@
 {
-    "name": "Trump Fall",
-    "symbol": "TRFL",
-    "description": "Trump Fall is a token representing the market downturn sentiment",
-    "image": "https://raw.githubusercontent.com/suryapratap95/solana_token/refs/heads/main/TrumpImage.png",
+    "name": "New value Fall",
+    "symbol": "NVFL",
+    "description": "New value fall token which is a meme token",
+    "image": "https://raw.githubusercontent.com/suryapratap95/solana_token/refs/heads/main/meme-coin.png",
+    "additionalMetadata": {
+        "twitter": "https://x.com/Sumberella83957",
+    }
     "attributes": [
       {
         "trait_type": "Category",
