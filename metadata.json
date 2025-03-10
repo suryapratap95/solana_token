@@ -1,7 +1,7 @@
 {
     "name": "New value Fall",
     "symbol": "NVFL",
-    "description": "New value fall token which is a meme token",
+    "description": "New value fall token which is a new meme token",
     "image": "https://raw.githubusercontent.com/suryapratap95/solana_token/refs/heads/main/meme-coin.png",
     "additionalMetadata": {
         "twitter": "https://x.com/Sumberella83957",
